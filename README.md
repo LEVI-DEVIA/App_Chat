@@ -6,4 +6,4 @@ Une application de Chat basée sur la technologie socket.io et Node Js avec la b
 3. **Installer ensuite le plugins buffer avec la commande : npm install buffer** 
 4. **Installer ensuite le plugins socket avec la commande : npm install socket.io-client** 
 5. **Installer ensuite le plugins axios avec la commande : npm install axios** 
-6. **Installer ensuite la dépendence '@babel/plugin-proposal-private-property-in-object' avec la commande : npm install --save-dev @babel/plugin-proposal-private-property-in-object**
+6. **Installer ensuite la dépendance '@babel/plugin-proposal-private-property-in-object' avec la commande : npm install --save-dev @babel/plugin-proposal-private-property-in-object**
